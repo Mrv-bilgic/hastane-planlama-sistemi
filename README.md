@@ -3,7 +3,7 @@
 Konsol üzerinden çalışan, verileri dosyada kalıcı olarak saklayan bir hastane planlama uygulaması.
 Nesneye Yönelik Programlama dersi dönem projesi olarak hazırlanmıştır.
 
-**Hazırlayan:** Merve Bilgiç, 1250505009 (bireysel proje)
+
 
 ## Ne yapar?
 
