@@ -1,4 +1,5 @@
 package com.hastane.olay;
 
 public enum OlayTuru {
+    KRITIK_HASTA, HASTA_CAGRILDI, AMELIYAT_PLANLANDI, SALON_ARIZA, PLAN_GUNCELLENDI
 }
